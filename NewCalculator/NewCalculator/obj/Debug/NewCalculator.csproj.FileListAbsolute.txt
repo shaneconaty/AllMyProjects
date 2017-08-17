@@ -1,0 +1,8 @@
+C:\Users\shane\documents\visual studio 2017\Projects\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe.config
+C:\Users\shane\documents\visual studio 2017\Projects\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe
+C:\Users\shane\documents\visual studio 2017\Projects\NewCalculator\NewCalculator\bin\Debug\NewCalculator.pdb
+C:\Users\shane\documents\visual studio 2017\Projects\NewCalculator\NewCalculator\obj\Debug\NewCalculator.CalculatorForm.resources
+C:\Users\shane\documents\visual studio 2017\Projects\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Properties.Resources.resources
+C:\Users\shane\documents\visual studio 2017\Projects\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.GenerateResource.Cache
+C:\Users\shane\documents\visual studio 2017\Projects\NewCalculator\NewCalculator\obj\Debug\NewCalculator.exe
+C:\Users\shane\documents\visual studio 2017\Projects\NewCalculator\NewCalculator\obj\Debug\NewCalculator.pdb
